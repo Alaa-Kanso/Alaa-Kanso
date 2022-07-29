@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alaa Kanso</h1>
+<h1 align="center">Hi I'm Alaa Kanso 👋</h1>
 <h3 align="center">A passionate student always searching to learn new things</h3>
 <br>
 <img align="right" width="500" alt="girl coding gif" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🔭 I’m currently working on **a two player 2D fighting game**
 
-- 🌱 I’m currently learning **React, C#**
+- 🌱 I’m currently learning **React, C#, Data Structure and Algorithm**
 
 - 📫 How to reach me **alaakanso120@gmail.com**
 
