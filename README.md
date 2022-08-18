@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a two player 2D fighting game**
 
-- 🌱 I’m currently learning **React, C#, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm, animation with JavaScript**
 
 - 📫 How to reach me **alaakanso120@gmail.com**
 
