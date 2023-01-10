@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Android devlopment, PHP, Blender**
+- 🌱 I’m currently learning **Android devlopment, PHP**
 
 - 📫 How to reach me **alaakanso120@gmail.com**
 
